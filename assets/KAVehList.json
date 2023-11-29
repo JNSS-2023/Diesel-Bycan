@@ -1,0 +1,572 @@
+[
+ {
+  "VehicleNo": "KA01A7634"
+ },
+ {
+  "VehicleNo": "KA01A7635"
+ },
+ {
+  "VehicleNo": "KA01A7636"
+ },
+ {
+  "VehicleNo": "KA01AB1315"
+ },
+ {
+  "VehicleNo": "KA01AC1630"
+ },
+ {
+  "VehicleNo": "KA01AC1631"
+ },
+ {
+  "VehicleNo": "KA01AC1637"
+ },
+ {
+  "VehicleNo": "KA01AC2018"
+ },
+ {
+  "VehicleNo": "KA01AC2404"
+ },
+ {
+  "VehicleNo": "KA01AD3392"
+ },
+ {
+  "VehicleNo": "KA01AD3394"
+ },
+ {
+  "VehicleNo": "KA01AD3395"
+ },
+ {
+  "VehicleNo": "KA01AD3396"
+ },
+ {
+  "VehicleNo": "KA01AD3401"
+ },
+ {
+  "VehicleNo": "KA01AD4231"
+ },
+ {
+  "VehicleNo": "KA01AD4233"
+ },
+ {
+  "VehicleNo": "KA01AD4234"
+ },
+ {
+  "VehicleNo": "KA01AD5015"
+ },
+ {
+  "VehicleNo": "KA01AD9610"
+ },
+ {
+  "VehicleNo": "KA01AD9611"
+ },
+ {
+  "VehicleNo": "KA01AE3845"
+ },
+ {
+  "VehicleNo": "KA01AE9163"
+ },
+ {
+  "VehicleNo": "KA01AF0114"
+ },
+ {
+  "VehicleNo": "KA01AF4809"
+ },
+ {
+  "VehicleNo": "KA01AF6183"
+ },
+ {
+  "VehicleNo": "KA05AA0539"
+ },
+ {
+  "VehicleNo": "KA05AB0615"
+ },
+ {
+  "VehicleNo": "KA05AB0885"
+ },
+ {
+  "VehicleNo": "KA05AB1953"
+ },
+ {
+  "VehicleNo": "KA05AB1954"
+ },
+ {
+  "VehicleNo": "KA05AD7046"
+ },
+ {
+  "VehicleNo": "KA05AE8928"
+ },
+ {
+  "VehicleNo": "KA06AB1530"
+ },
+ {
+  "VehicleNo": "KA06AB1532"
+ },
+ {
+  "VehicleNo": "KA06AB1686"
+ },
+ {
+  "VehicleNo": "KA06AB1696"
+ },
+ {
+  "VehicleNo": "KA06AB2197"
+ },
+ {
+  "VehicleNo": "KA06AB2205"
+ },
+ {
+  "VehicleNo": "KA06AB2575"
+ },
+ {
+  "VehicleNo": "KA06AB2576"
+ },
+ {
+  "VehicleNo": "KA06AB2591"
+ },
+ {
+  "VehicleNo": "KA06AB2891"
+ },
+ {
+  "VehicleNo": "KA06AB2892"
+ },
+ {
+  "VehicleNo": "KA06AB2915"
+ },
+ {
+  "VehicleNo": "KA06AB2916"
+ },
+ {
+  "VehicleNo": "KA06AB3233"
+ },
+ {
+  "VehicleNo": "KA06AB3234"
+ },
+ {
+  "VehicleNo": "KA06AB3235"
+ },
+ {
+  "VehicleNo": "KA06AB3236"
+ },
+ {
+  "VehicleNo": "KA06AB3336"
+ },
+ {
+  "VehicleNo": "KA06AB3373"
+ },
+ {
+  "VehicleNo": "KA06AB3469"
+ },
+ {
+  "VehicleNo": "KA06AB3470"
+ },
+ {
+  "VehicleNo": "KA06AB3471"
+ },
+ {
+  "VehicleNo": "KA06AB3472"
+ },
+ {
+  "VehicleNo": "KA06AB3502"
+ },
+ {
+  "VehicleNo": "KA06AB3591"
+ },
+ {
+  "VehicleNo": "KA06AB3592"
+ },
+ {
+  "VehicleNo": "KA06AB3596"
+ },
+ {
+  "VehicleNo": "KA06AB3658"
+ },
+ {
+  "VehicleNo": "KA06AB3687"
+ },
+ {
+  "VehicleNo": "KA06AB3921"
+ },
+ {
+  "VehicleNo": "KA06AB3922"
+ },
+ {
+  "VehicleNo": "KA06AB4347"
+ },
+ {
+  "VehicleNo": "KA06AB4431"
+ },
+ {
+  "VehicleNo": "KA06AB4475"
+ },
+ {
+  "VehicleNo": "KA06AB4476"
+ },
+ {
+  "VehicleNo": "KA06AB4477"
+ },
+ {
+  "VehicleNo": "KA06AB4508"
+ },
+ {
+  "VehicleNo": "KA06AB4509"
+ },
+ {
+  "VehicleNo": "KA06AB4529"
+ },
+ {
+  "VehicleNo": "KA06AB4533"
+ },
+ {
+  "VehicleNo": "KA06AB4534"
+ },
+ {
+  "VehicleNo": "KA06AB4535"
+ },
+ {
+  "VehicleNo": "KA06AB4584"
+ },
+ {
+  "VehicleNo": "KA06AB4585"
+ },
+ {
+  "VehicleNo": "KA06AB4586"
+ },
+ {
+  "VehicleNo": "KA06AB5158"
+ },
+ {
+  "VehicleNo": "KA06AB5159"
+ },
+ {
+  "VehicleNo": "KA06AB5160"
+ },
+ {
+  "VehicleNo": "KA06AB5161"
+ },
+ {
+  "VehicleNo": "KA06AB5228"
+ },
+ {
+  "VehicleNo": "KA06AB5233"
+ },
+ {
+  "VehicleNo": "KA06AB5822"
+ },
+ {
+  "VehicleNo": "KA06AB5823"
+ },
+ {
+  "VehicleNo": "KA06AB6271"
+ },
+ {
+  "VehicleNo": "KA06AB6272"
+ },
+ {
+  "VehicleNo": "KA06AB6273"
+ },
+ {
+  "VehicleNo": "KA06AB6274"
+ },
+ {
+  "VehicleNo": "KA06AB6275"
+ },
+ {
+  "VehicleNo": "KA06AB6276"
+ },
+ {
+  "VehicleNo": "KA06AB6472"
+ },
+ {
+  "VehicleNo": "KA06AB6473"
+ },
+ {
+  "VehicleNo": "KA06AB6474"
+ },
+ {
+  "VehicleNo": "KA06AB6475"
+ },
+ {
+  "VehicleNo": "KA06AB6550"
+ },
+ {
+  "VehicleNo": "KA06AB6551"
+ },
+ {
+  "VehicleNo": "KA06AB6559"
+ },
+ {
+  "VehicleNo": "KA06AB6560"
+ },
+ {
+  "VehicleNo": "KA06AB6734"
+ },
+ {
+  "VehicleNo": "KA06AB6735"
+ },
+ {
+  "VehicleNo": "KA06AB6736"
+ },
+ {
+  "VehicleNo": "KA06AB6779"
+ },
+ {
+  "VehicleNo": "KA06AB6780"
+ },
+ {
+  "VehicleNo": "KA06AB7506"
+ },
+ {
+  "VehicleNo": "KA06AB7740"
+ },
+ {
+  "VehicleNo": "KA06AB7741"
+ },
+ {
+  "VehicleNo": "KA06AB7742"
+ },
+ {
+  "VehicleNo": "KA06AB7743"
+ },
+ {
+  "VehicleNo": "KA06AB7744"
+ },
+ {
+  "VehicleNo": "KA06AB7871"
+ },
+ {
+  "VehicleNo": "KA06AB7872"
+ },
+ {
+  "VehicleNo": "KA06AB7873"
+ },
+ {
+  "VehicleNo": "KA06AB7874"
+ },
+ {
+  "VehicleNo": "KA06AB7875"
+ },
+ {
+  "VehicleNo": "KA06AB7876"
+ },
+ {
+  "VehicleNo": "KA06AB7877"
+ },
+ {
+  "VehicleNo": "KA06AB7879"
+ },
+ {
+  "VehicleNo": "KA06AB7971"
+ },
+ {
+  "VehicleNo": "KA06AB7972"
+ },
+ {
+  "VehicleNo": "KA06AB8171"
+ },
+ {
+  "VehicleNo": "KA06AB8172"
+ },
+ {
+  "VehicleNo": "KA06AB8173"
+ },
+ {
+  "VehicleNo": "KA06AB8248"
+ },
+ {
+  "VehicleNo": "KA06AB8249"
+ },
+ {
+  "VehicleNo": "KA06AB8265"
+ },
+ {
+  "VehicleNo": "KA06AB8266"
+ },
+ {
+  "VehicleNo": "KA06AB8267"
+ },
+ {
+  "VehicleNo": "KA06AB8542"
+ },
+ {
+  "VehicleNo": "KA06AB8543"
+ },
+ {
+  "VehicleNo": "KA06AB8544"
+ },
+ {
+  "VehicleNo": "KA06AB8653"
+ },
+ {
+  "VehicleNo": "KA06AB8654"
+ },
+ {
+  "VehicleNo": "KA06AB8656"
+ },
+ {
+  "VehicleNo": "KA06AB8657"
+ },
+ {
+  "VehicleNo": "KA06AB8748"
+ },
+ {
+  "VehicleNo": "KA06AB8749"
+ },
+ {
+  "VehicleNo": "KA06AB8750"
+ },
+ {
+  "VehicleNo": "KA06D0985"
+ },
+ {
+  "VehicleNo": "KA06D0986"
+ },
+ {
+  "VehicleNo": "KA06D1355"
+ },
+ {
+  "VehicleNo": "KA06D1356"
+ },
+ {
+  "VehicleNo": "KA06D1360"
+ },
+ {
+  "VehicleNo": "KA06D1362"
+ },
+ {
+  "VehicleNo": "KA06D1364"
+ },
+ {
+  "VehicleNo": "KA06D2281"
+ },
+ {
+  "VehicleNo": "KA06D2282"
+ },
+ {
+  "VehicleNo": "KA06D2285"
+ },
+ {
+  "VehicleNo": "KA06D2286"
+ },
+ {
+  "VehicleNo": "KA06D2287"
+ },
+ {
+  "VehicleNo": "KA06D2288"
+ },
+ {
+  "VehicleNo": "KA06D2291"
+ },
+ {
+  "VehicleNo": "KA06D3230"
+ },
+ {
+  "VehicleNo": "KA06D3573"
+ },
+ {
+  "VehicleNo": "KA06D3610"
+ },
+ {
+  "VehicleNo": "KA06D4151"
+ },
+ {
+  "VehicleNo": "KA06D5150"
+ },
+ {
+  "VehicleNo": "KA06D5210"
+ },
+ {
+  "VehicleNo": "KA06D5721"
+ },
+ {
+  "VehicleNo": "KA06D7766"
+ },
+ {
+  "VehicleNo": "KA06D7924"
+ },
+ {
+  "VehicleNo": "KA06D8102"
+ },
+ {
+  "VehicleNo": "KA077029"
+ },
+ {
+  "VehicleNo": "KA13C5005"
+ },
+ {
+  "VehicleNo": "KA19AA4811"
+ },
+ {
+  "VehicleNo": "KA19AA8275"
+ },
+ {
+  "VehicleNo": "KA19AB1887"
+ },
+ {
+  "VehicleNo": "KA19AB2209"
+ },
+ {
+  "VehicleNo": "KA19AB4517"
+ },
+ {
+  "VehicleNo": "KA21B3869"
+ },
+ {
+  "VehicleNo": "KA25D2350"
+ },
+ {
+  "VehicleNo": "KA25D6696"
+ },
+ {
+  "VehicleNo": "KA28C8937"
+ },
+ {
+  "VehicleNo": "KA34A8483"
+ },
+ {
+  "VehicleNo": "KA34A8508"
+ },
+ {
+  "VehicleNo": "KA426843"
+ },
+ {
+  "VehicleNo": "KA426844"
+ },
+ {
+  "VehicleNo": "KA426845"
+ },
+ {
+  "VehicleNo": "KA427519"
+ },
+ {
+  "VehicleNo": "KA427521"
+ },
+ {
+  "VehicleNo": "KA484472"
+ },
+ {
+  "VehicleNo": "KA485612"
+ },
+ {
+  "VehicleNo": "KA485613"
+ },
+ {
+  "VehicleNo": "KA486339"
+ },
+ {
+  "VehicleNo": "KA486340"
+ },
+ {
+  "VehicleNo": "KA486414"
+ },
+ {
+  "VehicleNo": "KA51A2478"
+ },
+ {
+  "VehicleNo": "KA51B8599"
+ },
+ {
+  "VehicleNo": "KA51D2644"
+ },
+ {
+  "VehicleNo": "KA560638"
+ }
+]
